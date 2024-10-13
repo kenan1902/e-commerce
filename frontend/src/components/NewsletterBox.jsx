@@ -11,8 +11,8 @@ const NewsletterBox = () => {
         Subscribe now & get 20% off
       </p>
       <p className="text=gray-400 mt-3">
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry.
+        Subscribe to our newsletter and be the first to know about new arrivals,
+        exclusive deals, and special offers straight to your inbox!
       </p>
       <form
         onSubmit={onSubmitHandler}
